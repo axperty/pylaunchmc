@@ -1,6 +1,6 @@
 # PyLaunch MC
 
-[![GitHub Release](https://img.shields.io/github/v/release/axperty/pylaunchmc?style=flat&logo=github&logoColor=%23FFFFFF&label=Latest%20Release&labelColor=2D2C2C&color=%234e992e)](https://github.com/axperty/pylaunchmc/releases/latest)
+[![GitHub Release](https://img.shields.io/github/v/release/axperty/pylaunchmc?style=flat&logo=github&logoColor=%23FFFFFF&label=Latest%20Release&labelColor=2D2C2C&color=%234e992e)](https://github.com/axperty/pylaunchmc/releases/alpha)
 [![GitHub Issues](https://img.shields.io/github/issues/axperty/pylaunchmc?style=flat&logo=github&logoColor=%23FFFFFF&label=Issues&labelColor=2D2C2C&color=%23c13030)](https://github.com/axperty/pylaunchmc/issues)
 [![Discord](https://img.shields.io/discord/1194733791818821663?style=flat&logo=discord&logoColor=%23FFFFFF&label=Discord&labelColor=2D2C2C&color=%234e992e)](https://discord.gg/e2BQx4bbsU)
 [![PayPal](https://img.shields.io/badge/Donate%20on%20PayPal-0079C1?style=flat&logo=paypal)](https://paypal.me/kevgelhorn)
