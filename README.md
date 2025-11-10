@@ -1,4 +1,4 @@
-# PyLaunch MC
+# PyLaunchMC
 
 [![GitHub Release](https://img.shields.io/github/v/release/axperty/pylaunchmc?style=flat&logo=github&logoColor=%23FFFFFF&label=Latest%20Release&labelColor=2D2C2C&color=%234e992e)](https://github.com/axperty/pylaunchmc/releases/alpha)
 [![GitHub Issues](https://img.shields.io/github/issues/axperty/pylaunchmc?style=flat&logo=github&logoColor=%23FFFFFF&label=Issues&labelColor=2D2C2C&color=%23c13030)](https://github.com/axperty/pylaunchmc/issues)
@@ -11,17 +11,17 @@
 
 ### Overview
 
-**PyLaunch MC** is a simple yet powerful Minecraft server dashboard for Windows, designed for everyone from first-time server owners to experienced administrators. It replaces the complex command line with a clean, intuitive, and modern user interface.
+**PyLaunchMC** is a simple yet powerful Minecraft server dashboard for Windows, designed for everyone from first-time server owners to experienced administrators. It replaces the complex command line with a clean, intuitive, and modern user interface.
 
 It's a true "plug-and-play" solution: just drop the executable into an existing server folder, and you get instant access to a full suite of management tools.
 
 ### Contributing
 
-Your contributions make PyLaunch MC better for everyone. Whether you're reporting a bug, suggesting a new feature, or submitting a code improvement, all help is welcome. Please feel free to open an issue or a pull request!
+Your contributions make PyLaunchMC better for everyone. Whether you're reporting a bug, suggesting a new feature, or submitting a code improvement, all help is welcome. Please feel free to open an issue or a pull request!
 
 ### Features
 
-PyLaunch MC is packed with features that simplify every aspect of server management:
+PyLaunchMC is packed with features that simplify every aspect of server management:
 
 *   **🖥️ Intuitive Dashboard**
     *   A single, clean view showing server status, IP address, and a live player list.
@@ -52,7 +52,7 @@ PyLaunch MC is packed with features that simplify every aspect of server managem
 
 ### Getting Started
 
-Getting your server running with PyLaunch MC takes less than a minute.
+Getting your server running with PyLaunchMC takes less than a minute.
 
 #### Prerequisites
 *   A **Windows 10/11** PC.
